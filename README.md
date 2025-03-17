@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm NahuriraClintonie!
 
-<!--
-**NahuriraClintonie/NahuriraClintonie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** with 3+ years of experience in **Full Stack Web Development**, **AI & ML**, **DevOP** and **Cloud Technologies**. Passionate about building scalable applications, AI-driven solutions, and modern web experiences.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack & Expertise  
+🔹 **Frontend:** React, Next.js, JSF, HTML, JavaScript, Tailwind CSS, etc  
+🔹 **Backend:** Java, Spring, Spring Boot, Flask, NodeJs, Django, etc  
+🔹 **Databases:** PostgreSQL, MySQL, NoSQL  
+🔹 **AI & ML:** ChatBots, AI agents, Fine-tuning models, AI system development  
+🔹 **WordPress Development:** Custom themes & plugins, React + Gutenberg blocks  
+🔹 **Cloud & DevOps:** Cloud technologies, DevOps automation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!  
+🔗 [LinkedIn](www.linkedin.com/in/clinton-nahurira) | 🌐 [Portfolio - Coming soon](https://your-website.com) | ✉️ [Email](mailto:clintonnahurira24@gmail.com)
+
