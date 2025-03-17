@@ -10,6 +10,12 @@ I'm a **Software Engineer** with 3+ years of experience in **Full Stack Web Deve
 🔹 **WordPress Development:** Custom themes & plugins, React + Gutenberg blocks  
 🔹 **Cloud & DevOps:** Cloud technologies, DevOps automation  
 
+## 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NahuriraClintonie&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NahuriraClintonie&layout=compact&theme=tokyonight)
+
+
 ## 📫 Let's Connect!  
 🔗 [LinkedIn](www.linkedin.com/in/clinton-nahurira) | 🌐 [Portfolio - Coming soon](https://your-website.com) | ✉️ [Email](mailto:clintonnahurira24@gmail.com)
 
